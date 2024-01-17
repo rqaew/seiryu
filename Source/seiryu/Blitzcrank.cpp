@@ -22,8 +22,8 @@ void ABlitzcrank::BeginPlay()
 void ABlitzcrank::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	FVector vec = GetActorLocation() += FVector(1, 0, 0);
-	SetActorLocation(vec);
+	//FVector vec = GetActorLocation() += FVector(1, 0, 0);
+	//SetActorLocation(vec);
 }
 
  
