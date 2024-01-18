@@ -54,7 +54,6 @@
 		"Android",
 		"IOS",
 		"Linux",
-		"Mac",
 		"PS4",
 		"PS5",
 		"Windows",
@@ -62,6 +61,7 @@
 		"Switch",
 		"XboxOne",
 		"XSX",
-		"HoloLens"
+		"HoloLens",
+		"Mac"
 	]
 }
