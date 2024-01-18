@@ -51,9 +51,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"Linux",
 		"PS4",
 		"PS5",
 		"Windows",
@@ -61,7 +58,6 @@
 		"Switch",
 		"XboxOne",
 		"XSX",
-		"HoloLens",
-		"Mac"
+		"HoloLens"
 	]
 }
